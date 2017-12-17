@@ -1,0 +1,7 @@
+git initial
+git status
+git add .
+git commit -m "name of commit"
+
+git remote add origin https://github.com/mikolajh/GIT-lesson.git
+git push -u origin master
