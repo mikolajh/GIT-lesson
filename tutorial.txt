@@ -1,4 +1,7 @@
-git initial
+git init
+git config --global user.name "mikolajh"
+git config --global user.email "test@example.com"
+
 git status
 git add .
 git commit -m "name of commit"
